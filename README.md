@@ -1,5 +1,3 @@
-Use this as your `README.md`:
-
 # Claude Code Usage Statusline
 
 <p align="center">
