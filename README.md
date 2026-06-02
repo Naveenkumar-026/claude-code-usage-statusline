@@ -11,18 +11,13 @@
   <img alt="No jq" src="https://img.shields.io/badge/jq-not%20required-green">
 </p>
 
-<p align="center">
-  <img src="assets/screenshot.png" alt="Claude Code Usage Statusline Preview" width="900">
-</p>
-
 ---
 
 ## Preview
 
-```text
-Opus 4.8 │ CTX 157.1k/1.0M [##----------] 16% │ $12.92
-5H [#-----------] 6/100 used · 94 left · reset 9:30am │ WK [#-----------] 5/100 used · 95 left · reset Jun 6, 2:30pm
-```
+<p align="center">
+  <img src="assets/screenshot.png" alt="Claude Code Usage Statusline Preview" width="900">
+</p>
 
 ---
 
