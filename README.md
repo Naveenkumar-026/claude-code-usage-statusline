@@ -1,3 +1,5 @@
+# CLAUDE CODE USAGE STATUSLINE
+
 <p align="center">
   <strong>A clean two-line Claude Code statusline for context, quota, reset time, and cost visibility.</strong>
 </p>
