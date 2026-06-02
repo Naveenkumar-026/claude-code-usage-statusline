@@ -1,4 +1,5 @@
 <h1 align="center">Claude Code Usage Statusline</h1>
+
 <p align="center">
   <strong>A clean two-line Claude Code statusline for context, quota, reset time, and cost visibility.</strong>
 </p>
@@ -8,6 +9,10 @@
   <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-statusline-orange">
   <img alt="License" src="https://img.shields.io/badge/License-MIT-lightgrey">
   <img alt="No jq" src="https://img.shields.io/badge/jq-not%20required-green">
+</p>
+
+<p align="center">
+  <img src="assets/screenshot.png" alt="Claude Code Usage Statusline Preview" width="900">
 </p>
 
 ---
