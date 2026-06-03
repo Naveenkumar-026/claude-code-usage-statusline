@@ -346,25 +346,6 @@ Possible future additions:
 
 ---
 
-## Repository Topics
-
-Recommended GitHub topics:
-
-```text
-claude-code
-anthropic
-statusline
-token-usage
-quota-monitor
-terminal
-cli
-developer-tools
-python
-productivity
-```
-
----
-
 ## Contributing
 
 Issues, improvements, and theme ideas are welcome.
