@@ -316,36 +316,6 @@ rm -f ~/.claude/claude-code-usage-statusline.py
 
 ---
 
-## Design Philosophy
-
-This project is built around three rules:
-
-```text
-Readable first.
-Minimal dependencies.
-Useful during real coding sessions.
-```
-
-It is intentionally not a heavy dashboard, daemon, or analytics tool.
-
-It is a simple Claude Code terminal HUD.
-
----
-
-## Roadmap
-
-Possible future additions:
-
-* extra themes
-* compact one-line mode
-* config file support
-* installable package release
-* automatic theme preview
-* terminal width detection
-* optional daily usage summary
-
----
-
 ## Contributing
 
 Issues, improvements, and theme ideas are welcome.
